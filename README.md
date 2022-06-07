@@ -5,6 +5,7 @@ Katso mielummin uusin ja edistyksekkäin äppini jonka olen rakentanut [github c
 Työmaa seuranta äppi. Jatkuvassa kehityksessä isälleni jotta hänellä on helpompi hallita töitään
 
 ## Etusivu näkymä
+Pystyy filtteröimään sen mukaan onko työmaa käynnissä loppunut jne ( tehty store tasolla, ei vaadi api kutsua joten toimii salaman nopeasti )
 
 <img width="499" alt="Screen Shot 2022-06-07 at 20 33 20" src="https://user-images.githubusercontent.com/42738047/172446636-e4414203-8692-4464-bd40-5c3e94d8369a.png">
 
